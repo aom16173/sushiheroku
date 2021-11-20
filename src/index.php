@@ -31,7 +31,7 @@
                 <a class="nav-link" href="#">Delivery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Order Now</a>
+                <a class="nav-link" href="guestbook.php">Guestbook</a>
               </li>
               
               
